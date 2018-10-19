@@ -1,6 +1,8 @@
 Liquidsoap
 ==========
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/liquidsoap.svg)](https://www.guardrails.io)
+
 Our flagship is Liquidsoap, a swiss-army knife for multimedia streaming, notably
 used for netradios and webtvs. It has tons of features, it's free and it's
 open-source!
